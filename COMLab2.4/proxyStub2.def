@@ -1,0 +1,7 @@
+LIBRARY COMLab2.4.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
